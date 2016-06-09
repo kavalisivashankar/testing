@@ -1,2 +1,0 @@
-# testing
-To learn GitHub.
